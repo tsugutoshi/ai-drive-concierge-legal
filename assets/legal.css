@@ -241,7 +241,7 @@ tr:last-child td {
   background: var(--surface);
 }
 
-.link-item h2 {
+.link-item h3 {
   margin: 0 0 8px;
   padding: 0;
   font-size: 19px;
